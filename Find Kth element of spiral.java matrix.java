@@ -1,5 +1,4 @@
 
-
 class Solution
 {
     /*You are required to complete this method*/
